@@ -10,7 +10,7 @@ Welcome to my portfolio! Where I document my projects in the data science field.
 # SQL
 | Project Link | Functions | Project Description |
 |---|---|---|
-| blah | blah | blah |
+| [Risky Project](https://github.com/colinlim84/StrataScratch/blob/main/README.md) | CTE, SUM, DATEDIFF, CEILING | Extract list of projects that're at risk of overbudget |
 
 
 # Python
