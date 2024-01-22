@@ -8,7 +8,7 @@ Welcome to my portfolio! Where I document my projects in the data science field.
 - [Tableau](#tableau)
 
 # SQL
-| Project Link | Placeholder | Project Description |
+| Project Link | Functions | Project Description |
 |---|---|---|
 | blah | blah | blah |
 
