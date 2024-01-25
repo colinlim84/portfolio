@@ -1,8 +1,5 @@
 # 🗺 Colin's Portfolio
-Welcome to my portfolio! 
-
-This is where I document projects to showcase my ability to deal with various aspect of Data Science with the different tools.
-
+Welcome to my portfolio! This is where I document projects to showcase my ability to deal with various aspect of Data Science with the different tools.
 
 ## 📚 Table of Contents
 - [SQL](#sql)
