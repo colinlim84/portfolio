@@ -27,6 +27,6 @@ Welcome to my portfolio! Where I document projects to showcase my ability to dea
 # Tableau
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🚗  Chicago Cabby Survival Guide | blah | [Dashboard](https://public.tableau.com/app/profile/colin.lim1062/viz/ChicagoCabbySurvivalGuide/ChicagoTaxi) |
+| 🚗  Chicago Cabby Survival Guide | In the bustling streets of Chicago, navigating the world of taxi driving can be a complex and challenging endeavor. The "Chicago Cabby Survival Guide" is a comprehensive data-driven dashboard designed to empower taxi drivers with strategic insights and recommendations, making informed decisions to optimize their driving career   | [Dashboard](https://public.tableau.com/app/profile/colin.lim1062/viz/ChicagoCabbySurvivalGuide/ChicagoTaxi) |
 
 
