@@ -19,6 +19,7 @@ Welcome to my portfolio! Where I document projects to showcase my ability to dea
 # Python
 | Project Link | Area | Libraries |  Project Description |
 |---|---|---|---|
+| 🖥 [Codility Challenge - Custom Function : Covariance, Correlation](https://github.com/colinlim84/cov_corr_func/blob/main/%20Covariance%2C%20Correlation.ipynb) | Math, Statistic, python functions | numpy, pandas | Given a dataframe, create a function that calculate correlation, covariance without using the numpy.cov. |
 | 📈 [Conversion Rates Optimization](https://github.com/colinlim84/optimizing_pl_conversion/blob/main/optimizing_personal_loan_conversion_rates.ipynb) | EDA, data cleaning, imputing missing data, machine learning  | pandas, numpy, seaborn, matplotlib, sklearn | The bank wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). A campaign that the bank ran last year for liability customers showed a conversion rate of over 9% success. This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with minimal budget. |
 
 
