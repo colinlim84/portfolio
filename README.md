@@ -31,6 +31,7 @@ Welcome to my portfolio! Where I document projects to showcase my ability to dea
 # Tableau
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| 🚗  Chicago Cabby Survival Guide | In the bustling streets of Chicago, navigating the world of taxi driving can be a complex and challenging endeavor. The "Chicago Cabby Survival Guide" is a comprehensive data-driven dashboard designed to empower taxi drivers with strategic insights and recommendations, making informed decisions to optimize their driving career   | [Dashboard](https://public.tableau.com/app/profile/colin.lim1062/viz/ChicagoCabbySurvivalGuide/ChicagoTaxi) |
+| 🚗   Chicago Cabby Survival Guide | In the bustling streets of Chicago, navigating the world of taxi driving can be a complex and challenging endeavor. The "Chicago Cabby Survival Guide" is a comprehensive data-driven dashboard designed to empower taxi drivers with strategic insights and recommendations, making informed decisions to optimize their driving career   | [Dashboard](https://public.tableau.com/app/profile/colin.lim1062/viz/ChicagoCabbySurvivalGuide/ChicagoTaxi) |
+| 🏥  Heeling Soles Executive Summary | As a BI analyst for Heeling Soles Clinics, you are asked to formulate a dashboard for the management team, for the tracking of key business metrics relevant to the nature of the business. The dashboard should serve as the common point reference for the relevant stakeholders during their fortnightly meeting. The main stakeholders to be addressed will be primarily CEO, COO/Head of Operations, and Head of Marketing. | [Dashboard](https://public.tableau.com/app/profile/colin.lim1062/viz/HeelingSolesExecutiveSummary/HeelingSolesExecutiveSummary) |
 
 
