@@ -11,7 +11,7 @@ Welcome to my portfolio! Where I document projects to showcase my ability to dea
 |---|---|---|
 | 🍔  [Danny's Diner](https://github.com/colinlim84/Danny-s-Diner/blob/main/README.md) | CTE, Subquery, COUNT, SUM, CASE, INNER JOIN, LEFT JOIN, DENSE_RANK | Case Study #1 of the 8 Week SQL Challenges |
 | 🛵💨 [Pizza Runner](https://github.com/colinlim84/Pizza-Runner/blob/main/README.md) | LENGTH, COUNT, MIN, MAX, TO_CHAR, LEFT JOIN, INNER JOIN | Case Study #2 of the 8 Week SQL Challenges |
-| 🖊️ [SQL Technical Test](https://gist.github.com/colinlim84/fa3f557403caae554e670b609bb3ba71) | LENGTH, COUNT, MIN, MAX, TO_CHAR, LEFT JOIN, INNER JOIN | SQL Technical Assessment |
+| 🖊️ [SQL Technical Test](https://gist.github.com/colinlim84/fa3f557403caae554e670b609bb3ba71) | ROUND, CTE, SUM, MIN, AVG, DATEDIFF, LAG | SQL Technical Assessment |
 | ❗️  [Risky Project](https://github.com/colinlim84/StrataScratch/blob/main/README.md) | CTE, SUM, DATEDIFF, CEILING, LEFT JOIN | Extract list of projects that're at risk of overbudget |
 | 💯  [Most Critically Acclaimed Genre](https://github.com/colinlim84/sql_netflix/blob/main/README.md) | CTE, COUNT, MAX, LEFT JOIN | Find the genre of the person with the most number of oscar winnings |
 
