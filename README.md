@@ -4,6 +4,9 @@ Welcome to my portfolio! Where I document projects to showcase my ability to dea
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
+  - [Data Management](#data-management)
+  - [Mathematics and Statistics](#mathematics-and-statistics)
+  - [Machine Learning](#machine-learning)
 - [Tableau](#tableau)
 
 # SQL
@@ -19,9 +22,21 @@ Welcome to my portfolio! Where I document projects to showcase my ability to dea
 
 
 # Python
+
+### Data Management
 | Project Link | Area | Libraries |  Project Description |
 |---|---|---|---|
-| 🖥 [Codility Challenge - Custom Function : Covariance, Correlation](https://github.com/colinlim84/cov_corr_func/blob/main/%20Covariance%2C%20Correlation.ipynb) | Math, Statistic, python functions | numpy, pandas | Given a dataframe, create a function that calculate correlation, covariance without using the numpy.cov. |
+|🗂️ [Data Transformation & Memory Optimization](https://github.com/colinlim84/cov_corr_func/blob/main/%20Covariance%2C%20Correlation.ipynb) | Data Engineering, Data Science | os, pandas | Given a dataframe, create a function that calculate correlation, covariance without using the numpy.cov. |
+
+### Mathematics and Statistics
+| Project Link | Area | Libraries |  Project Description |
+|---|---|---|---|
+| 🖥 [Codility Challenge - Custom Function : Covariance, Correlation](https://github.com/colinlim84/cov_corr_func/blob/main/%20Covariance%2C%20Correlation.ipynb) | Math, Statistic, python functions | numpy, pandas | Dive into data transformation and memory optimization techniques in this project. Enhance data storage efficiency without compromising accuracy by transforming data types, filtering based on specific criteria, and comparing memory usage. |
+
+
+### Machine Learning
+| Project Link | Area | Libraries |  Project Description |
+|---|---|---|---|
 | 📈 [Conversion Rates Optimization](https://github.com/colinlim84/optimizing_pl_conversion/blob/main/optimizing_personal_loan_conversion_rates.ipynb) | EDA, data cleaning, imputing missing data, machine learning  | pandas, numpy, seaborn, matplotlib, sklearn | The bank wants to explore ways of converting its liability customers to personal loan customers (while retaining them as depositors). A campaign that the bank ran last year for liability customers showed a conversion rate of over 9% success. This has encouraged the retail marketing department to devise campaigns with better target marketing to increase the success ratio with minimal budget. |
 | 🧮 [Principal Components Analysis](https://github.com/colinlim84/pca/blob/main/Principal%20Components%20Analysis.ipynb) | PCA, normalization, multicollinearty, machine learning  | pandas, seaborn, matplotlib, sklearn | We delve into the power of Principal Component Analysis (PCA) using the breast cancer dataset. With PCA, we transform the dataset's myriad features into a compact set of principal components, each representing unique patterns in the data. By condensing the original 30 features into a smaller subset, PCA facilitates faster model training and enhances interpretability. This streamlined approach empowers us to uncover hidden insights and optimize targeted campaigns effectively, aligning with the bank's goal of maximizing conversion rates while minimizing costs. |
 
