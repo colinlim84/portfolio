@@ -4,9 +4,6 @@ Welcome to my portfolio! Where I document projects to showcase my ability to dea
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Python](#python)
-  - [Data Management](#data-management)
-  - [Mathematics and Statistics](#mathematics-and-statistics)
-  - [Machine Learning](#machine-learning)
 - [Tableau](#tableau)
 
 # SQL
@@ -26,7 +23,7 @@ Welcome to my portfolio! Where I document projects to showcase my ability to dea
 ### Data Management
 | Project Link | Area | Libraries |  Project Description |
 |---|---|---|---|
-|🗂️ [Data Transformation & Memory Optimization](https://github.com/colinlim84/cov_corr_func/blob/main/%20Covariance%2C%20Correlation.ipynb) | Data Engineering, Data Science | os, pandas | Given a dataframe, create a function that calculate correlation, covariance without using the numpy.cov. |
+|🗂️ [Data Transformation & Memory Optimization](https://github.com/colinlim84/Customer-Analytics-Prep-Data-For-Modelling/blob/main/Customer%20Analytics%20-%20Prep%20Data%20For%20Modelling.ipynb) | Data Engineering, Data Science | os, pandas | Given a dataframe, create a function that calculate correlation, covariance without using the numpy.cov. |
 
 ### Mathematics and Statistics
 | Project Link | Area | Libraries |  Project Description |
